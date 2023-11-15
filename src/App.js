@@ -1,12 +1,12 @@
-import logo from './logo.svg';
+
 import './App.css';
-import navMenu from "./components/navMenu";
 import Portfolio from "./pages/portfolio";
 import Carousel from "./components/carousel";
+import NavigationMenu from "./components/navMenu";
 
 function App() {
     return (
-        < navMenu/>,
+        < NavigationMenu/>,
             < Portfolio/>,
             < Carousel/>
     )

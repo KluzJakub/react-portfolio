@@ -1,6 +1,4 @@
 import React, { useState } from 'react';
-import { TransitionGroup, CSSTransition } from 'react-transition-group';
-import './Carousel.css';
 
 const images = [
     'image1.jpg',
