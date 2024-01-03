@@ -1,3 +1,6 @@
+![Snímek obrazovky (37)](https://github.com/KluzJakub/react-portfolio/assets/112932657/e6d49b1b-d602-4573-a872-9f8355d24d46)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
